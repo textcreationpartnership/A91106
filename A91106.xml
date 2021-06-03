@@ -1,0 +1,287 @@
+<?xml version="1.0" encoding="UTF-8"?><?xml-stylesheet type="text/css" href="http://www.textcreationpartnership.org/docs/code/pfs.css"?><TEI xmlns="http://www.tei-c.org/ns/1.0">
+   <teiHeader>
+      <fileDesc>
+         <titleStmt>
+            <title>Propositions for the vvesterne assotiation [sic], with the westerne intentions for their owne preservation.</title>
+         </titleStmt>
+         <extent>Approx. 14KB of XML-encoded text transcribed from 5 1-bit group-IV TIFF page images.</extent>
+         <publicationStmt>
+            <publisher>Text Creation Partnership,</publisher>
+            <pubPlace>Ann Arbor, MI ; Oxford (UK) :</pubPlace>
+            <date when="2016-02">2016-02 (EEBO-TCP Phase 2).</date>
+            <idno type="DLPS">A91106</idno><idno type="EEBO-CITATION">99861744</idno>
+  <idno type="VID">113887</idno>
+  <idno type="EEBO-PROQUEST">2248535229</idno>
+  
+            <idno type="STC">Wing P3788</idno>
+            <idno type="STC">Thomason E362_8</idno>
+            <idno type="STC">ESTC R201212</idno>
+            <idno type="PROQUEST">99861744</idno>
+            <availability><p>This keyboarded and encoded edition of the work described above is co-owned by the
+    institutions providing financial support to the Early English Books Online Text Creation
+    Partnership. This text is available for reuse, according to the terms of <ref target="https://creativecommons.org/publicdomain/zero/1.0/"> Creative Commons 0 1.0 Universal
+    licence</ref>. The text can be copied, modified, distributed and performed, even for commercial
+    purposes, all without asking permission.</p></availability>
+         </publicationStmt>
+         <seriesStmt>
+            <title>Early English books online text creation partnership.</title>
+         </seriesStmt>
+         <notesStmt><relatedItem type="facs" target="https://data.historicaltexts.jisc.ac.uk/view?pubId=eebo-99861744e"/>
+            <note>(EEBO-TCP ; phase 2, no. A91106)</note>
+            <note>Transcribed from: (Early English Books Online ; image set 113887)</note>
+            <note>Images scanned from microfilm: (Thomason Tracts ; 58:E362[8])</note>
+         </notesStmt>
+         <sourceDesc>
+            <biblFull>
+               <titleStmt>
+                  <title>Propositions for the vvesterne assotiation [sic], with the westerne intentions for their owne preservation.</title>
+               </titleStmt>
+               <extent>[2], 4, [2] p.   </extent>
+               <publicationStmt>
+                  <publisher>For H.W. as truly printed by Evan Tyler, printer to the Kings most Excellent Majestie, as was the Scotish papers lately publish ed [sic] and dispersed in London;,</publisher>
+                  <pubPlace>Edinburgh: [i.e. London?] :</pubPlace>
+                  <date>1646.</date>
+               </publicationStmt>
+               <notesStmt>
+                  <note>The imprint is false; probably printed at London.</note>
+                  <note>Annotation on Thomason copy: at head of title page: "Independant"; "Nouemb: 14".</note>
+                  <note>Reproduction of the original in the British Library.</note>
+               </notesStmt>
+            </biblFull>
+         </sourceDesc>
+      </fileDesc>
+      <encodingDesc>
+         <projectDesc>
+            <p>Created by converting TCP files to TEI P5 using tcp2tei.xsl,
+      TEI @ Oxford.
+      </p>
+         </projectDesc>
+         <editorialDecl>
+            <p>EEBO-TCP is a partnership between the Universities of Michigan and Oxford and the publisher ProQuest to create accurately transcribed and encoded texts based on the image sets published by ProQuest via their Early English Books Online (EEBO) database (http://eebo.chadwyck.com). The general aim of EEBO-TCP is to encode one copy (usually the first edition) of every monographic English-language title published between 1473 and 1700 available in EEBO.</p>
+            <p>EEBO-TCP aimed to produce large quantities of textual data within the usual project restraints of time and funding, and therefore chose to create diplomatic transcriptions (as opposed to critical editions) with light-touch, mainly structural encoding based on the Text Encoding Initiative (http://www.tei-c.org).</p>
+            <p>The EEBO-TCP project was divided into two phases. The 25,363 texts created during Phase 1 of the project have been released into the public domain as of 1 January 2015. Anyone can now take and use these texts for their own purposes, but we respectfully request that due credit and attribution is given to their original source.</p>
+            <p>Users should be aware of the process of creating the TCP texts, and therefore of any assumptions that can be made about the data.</p>
+            <p>Text selection was based on the New Cambridge Bibliography of English Literature (NCBEL). If an author (or for an anonymous work, the title) appears in NCBEL, then their works are eligible for inclusion. Selection was intended to range over a wide variety of subject areas, to reflect the true nature of the print record of the period. In general, first editions of a works in English were prioritized, although there are a number of works in other languages, notably Latin and Welsh, included and sometimes a second or later edition of a work was chosen if there was a compelling reason to do so.</p>
+            <p>Image sets were sent to external keying companies for transcription and basic encoding. Quality assurance was then carried out by editorial teams in Oxford and Michigan. 5% (or 5 pages, whichever is the greater) of each text was proofread for accuracy and those which did not meet QA standards were returned to the keyers to be redone. After proofreading, the encoding was enhanced and/or corrected and characters marked as illegible were corrected where possible up to a limit of 100 instances per text. Any remaining illegibles were encoded as &lt;gap&gt;s. Understanding these processes should make clear that, while the overall quality of TCP data is very good, some errors will remain and some readable characters will be marked as illegible. Users should bear in mind that in all likelihood such instances will never have been looked at by a TCP editor.</p>
+            <p>The texts were encoded and linked to page images in accordance with level 4 of the TEI in Libraries guidelines.</p>
+            <p>Copies of the texts have been issued variously as SGML (TCP schema; ASCII text with mnemonic sdata character entities); displayable XML (TCP schema; characters represented either as UTF-8 Unicode or text strings within braces); or lossless XML (TEI P5, characters represented either as UTF-8 Unicode or TEI g elements).</p>
+            <p>Full documentation of the original data capture process is available from the <ref target="http://www.textcreationpartnership.org/docs/.">Text Creation Partnership web site</ref>.
+   All versions of the texts are now archived and freely available for download. See <ref target="https://textcreationpartnership.org/faq/#faq05">the TCP Download FAQ</ref>
+   for detailed information. The TEI P5 versions are also freely available from the <ref target="https://github.com/textcreationpartnership">TCP Github repository</ref>.</p>
+         </editorialDecl>
+         <listPrefixDef>
+            <prefixDef ident="tcp" matchPattern="([0-9\-]+):([0-9IVX]+)" replacementPattern="http://eebo.chadwyck.com/downloadtiff?vid=$1&amp;page=$2"/>
+            <prefixDef ident="char" matchPattern="(.+)" replacementPattern="https://raw.githubusercontent.com/textcreationpartnership/Texts/master/tcpchars.xml#$1"/>
+         </listPrefixDef>
+      </encodingDesc>
+      <profileDesc>
+         <langUsage>
+            <language ident="eng">eng</language>
+         </langUsage>
+         <textClass>
+            <keywords scheme="http://authorities.loc.gov/">
+               <term type="geographic_name">Great Britain --  History --  Civil War, 1642-1649 --  Early works to 1800.</term>
+               <term type="geographic_name">Wiltshire (England) --  History.</term>
+            </keywords>
+         </textClass>
+      </profileDesc>
+      <revisionDesc>
+         <change>
+            <date>2014-07 </date>
+            <label>SPi Global</label>Keyed and coded from ProQuest page images </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Mona Logarbo </label>Sampled and proofread </change>
+         <change>
+            <date>2014-11 </date>
+            <label>Mona Logarbo</label>Text and markup reviewed and edited </change>
+         <change>
+            <date>2015-03 </date>
+            <label>pfs</label>Batch review (QC) and XML conversion </change>
+      <change><date>2021-05 </date><label>lb</label>TEI P5 conversion </change></revisionDesc>
+   </teiHeader>
+   <text xml:lang="eng">
+      <front>
+         <div type="title_page">
+            <pb facs="tcp:113887:1"/>
+            <p>
+               <add>Independant</add> PROPOSITIONS FOR THE VVESTERNE ASSOTIATION, WITH THE WESTERNE INTENTIONS For their owne Preservation.</p>
+            <p>
+               <add>Nouemb: 14.</add> EDINBVRGH: For <hi>H. W.</hi> As truly Printed by <hi>Evan Tyler,</hi> Printer to the Kings most Ex<g ref="char:EOLhyphen"/>cellent Majestie, as was the Scotish papers lately published and disper<g ref="char:EOLhyphen"/>sed in London; 1646.</p>
+         </div>
+      </front>
+      <body>
+         <div type="text">
+            <pb facs="tcp:113887:2"/>
+            <pb n="1" facs="tcp:113887:2"/>
+            <head>PROPOSITIONS, Humbly offered to the conside<g ref="char:EOLhyphen"/>ration of the Honourable Committee, for Safety of the West, to be communicated to the well affected people in the westerne Association, for the speedy putti<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>g themselves into a safe and serviceable posture of defence, for prevention of Ryots, Robberies, Forraign Inva<g ref="char:EOLhyphen"/>sion<gap reason="illegible" extent="1 letter">
+                  <desc>•</desc>
+               </gap>, or Domestick Rebellions.</head>
+            <div type="part">
+               <p>
+                  <seg rend="decorInit">W</seg>Hereas by sad and late experiences, we have found that the ill managing of th<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap> Militia, of the Western Counties, ha<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>h cost not only the losse and exhau<g ref="char:EOLhyphen"/>sting the Treasure thereof, and best af<g ref="char:EOLhyphen"/>fected people therein, very neere to their destruction, but the blood of thousands hath been shed of as faithfull f<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>iends to the Parliament, as any whatsoever.</p>
+               <p>And for that we have cause yet to feare a discontented partie, both at home and abroad, may take advantages of our unready posture, the knowledge whereof, as it fills us with feares, so may it very much incourage them, to trouble those Counties in this Conjuncture of time. And therefore for prevention there<g ref="char:EOLhyphen"/>of, is humbly offered a speedy way for Listing 4000. Horse, or
+<pb n="2" facs="tcp:113887:3"/> more, in the W<gap reason="illegible" extent="2 letters">
+                     <desc>••</desc>
+                  </gap>terne Association, to be alwayes in readinesse for service, with very little charge to the under takers; and with<g ref="char:EOLhyphen"/>out confusion or trouble, in acting the service intended.</p>
+               <list>
+                  <item>I. THat there may be Six Sub-divisions of parts, in each grand division. That is to say, Twenty foure parts in each County, devided either by Townes or Pa<g ref="char:EOLhyphen"/>rishes.</item>
+                  <item>II. That there may be one Regiment of Eight Troopes, Li<g ref="char:EOLhyphen"/>sted in Twenty Foure Squadrons, in every County, which Squa<g ref="char:EOLhyphen"/>drons may lie in Order for best accommodation, as may be seen in the Division of the County of <hi>Wilts,</hi> which is hereunto an<g ref="char:EOLhyphen"/>nexed.</item>
+                  <item>III. That no man disaffected to the Parliament, be suffered to List either Horse or Horses, in any Squadron or Troope, or to keepe in his custody, any Armes, or other provision of warre, but only such, who have been faithfull in assisting the Parliament, either in purse or person, during this warre.</item>
+                  <item>IV. That upon the division of twenty foure parts divided, as aforesaid, where every Officers Squadron and Troope, may most conveniently lie, that the Major part of every Squadron, may choose their owne Officers. Alwayes provided▪ their respective Officers so chosen; may be approved by the Parliament: or such as they shall appoint thereunto.</item>
+                  <item>V. That there be places of Randezvouse for each Squadron, appointed, and from thence for each Troope to rendezvouse to<g ref="char:EOLhyphen"/>gether. Where orders being given by the Shreiffes, or such as shall be appointed thereunto: they may act without confusion or disorder, as occasion is offered.</item>
+                  <item>VI. That there be a Muster Roule of all men, who have freely and faithfully served the Parliament, kept. And by this meanes they will be the better united together, and the others both
+<pb n="3" facs="tcp:113887:3"/> number and places will be easily knowne, which will be a ready way to prevent their designes and under-hand workings.</item>
+                  <item>VII. That in case of drawing together for the service of the County, a Troope or moore be inquired, that there be provision made for Officers and Souldiers for each dayes service. Which charge be undergone by those who serve not there and are menti<g ref="char:EOLhyphen"/>oned in the third Proposition.</item>
+                  <item>VIII. That the Quarter-master, Marshalls, and Corporalls, be chosen by the Captaines, Lieutenants and Cornets of each troop, and that a Committee be appointed of the Officers of the Army, with the assistance of the Committees of each counties for setling the Officers and Squadrons as is divided, or otherwise, as shall be thought most convenient for the effectuall security and defence of the Western association.</item>
+               </list>
+            </div>
+            <div type="part">
+               <head>The Westerne intentions for their owne preservation.</head>
+               <p>FRiends, the end of these propositions, certainly is to establish us in a safe and peaceable condition of defence. To preserve our selves and friends, from the invasion of Strangers that dayly threaten us, and to prevent commotions that may arise within our Counties. That our association▪ hath such who will be friend a no longer then oppertunity serve them to shew us, they are our e<g ref="char:EOLhyphen"/>nemies, our owne experiences c<gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>n tell it, and their dayly words and actions require us to be very watchfull.</p>
+               <p>Suppose we may be invaded by <hi>French</hi> or <hi>Jrish,</hi> then we cannot provide for our owne safety, or suppose we never are disturbed, our labour and charge is not lost, with our Horses we may dayly plough, sow to carriage and all other necessary worke that may be, other charge is little, yea, as <gap reason="illegible" extent="1 letter">
+                     <desc>•</desc>
+                  </gap>othing; in respect of our secu<g ref="char:EOLhyphen"/>rity we shall injoy, there by, our Officers and Soldiers are of our selves, and who knowes not, but that our being in this posture, may be a meanes to prevent further trouble amongst us: yea, and prove a terrour to our enemies. And therefore if these or the like propositions are approved amongst us, as good and necessary for us, then know, we may not let slip this season, to make our con<g ref="char:EOLhyphen"/>dition happie. We have an English Parliament sitting, whose eares are open to heare our desires, and to apply these remedies accor<g ref="char:EOLhyphen"/>dingly.</p>
+               <pb n="4" facs="tcp:113887:4"/>
+               <p>And although all things are not so well as can be wished, yet the fault thereof, is very much in our selves; we cannot but re<g ref="char:EOLhyphen"/>member, how at first we were deceived in our elections, in sending thither such members, whose riches more then vertues we much regarded, and whose actions since hath occasioned much trouble, and hindred many good things from us.</p>
+               <p>Yet further, is feared, there are and will remaine more endea<g ref="char:EOLhyphen"/>vours, and deeper designes under divers colours and specious pre<g ref="char:EOLhyphen"/>tences, if it were possible, to divide and alienate our affections from this honourable Parliament. O let such thoughts never harbour in our minds, but rather let us consider, and (know) that there is no other interest consistent with our welfare, but only that which is now managed by this Parliament, whom we have chosen, and whose preservation with our owne, we so dearly have purchased.</p>
+               <p>
+                  <hi>Obiect.</hi> If any man object, they desire not freedome, but are inclined to the interest of <hi>Spaine, France, Denmarke,</hi> &amp;c. That is to say, Love that government which is one sort tyrants, and the other part slaves;</p>
+               <p>Let us answer them thus, they may injoy that interest where it is followed, let them thither goe, what makes them here, cum<g ref="char:EOLhyphen"/>bring this English ground? We are English men, and cannot beare any other government, but what is approved by consent to be free, just, and rationall. And for that end is this Parliament cho<g ref="char:EOLhyphen"/>sen: And though our and was crossed by some of our former Trustees, who digging pits for us; are therein fallen: We may hope for the future, it shall admonish us, to be more vigilant and carefull, and as long as justice and judgement, freely passeth amongst us, let us lay aside all delusions of the Enemies of our na<g ref="char:EOLhyphen"/>turall Rights and liberties and resolve to stand by this Parliament against all opposers whatsoever. And though the face of things seem to change, let us be assured by this Parliament, the same in<g ref="char:EOLhyphen"/>terest is still maintained, and though designes may be laid in the darke to devide this Parliament and people, yet let us continue firme to the end, as free men borne, free to live and so to dye, and live as doth this honourable Parliament, whom we have intrusted for our preservation.</p>
+            </div>
+            <div type="part">
+               <pb facs="tcp:113887:4"/>
+               <head>The Division of the County of Wilts into twenty foure Squadrons</head>
+               <list>
+                  <item>Squad. I. Salisbury. Winterborn Gunner. Winterburn Dansey. Winterborn Earles Winterslow. Pitten. Laverstoke. Weast D<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>n. East Greenste<seg rend="sup">d</seg>. Jege-Church. Alder<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ry. West-Greensted. Whit-Church.</item>
+                  <item>II. Burtford. East Harna<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. Langford. B<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>sh<gap reason="illegible" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>-Town. Fenny-Stratgord. Combe. Hummington. Nunton. O<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>stoke. With-bury. Marton. Damarirum.</item>
+                  <item>III. Woodford. Newton. Chilhamton. Eulston. Bemmarton. Fisherton. West-Harnham. Wilford. Ugford. Berford. Wils<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ford. <gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ongford p<gap reason="illegible" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>. Over Tefunt. Compton. Ditton. Baberstoke. Nether. Tefunt. South-Bu<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>comp.</item>
+                  <item>IIII. Tilbury. East-Hat<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>h. Sedge-hill. Sembry. Fovane. Sutton. Swallodyfe. Ashtye Gver-Donet. Nether-Donet. Ludwell. Charle<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>n. Follard-Royall. Ourrington. South-Barwick. Burchalk. Flamstone. Broa<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>▪ Chalk. Alveston. Fyfehud.</item>
+                  <item>V. Bishopstrawe. Sutton Mag. Tetherington. Cotting<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>n▪ Boy<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>on. Sherington. Steketon. Bapton. Wilye. Pictwood. C<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>icklat. West-Knahill. Chilmack. Funthill Gilford. Berwich Leonard. Hynd<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>. Hyndon.</item>
+                  <item>VI. M. Deverell. H. Deverell. L. D<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>lton. up<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>n. Cosley. Warmister. Long-Leat. Hooningsham. Deverell. Brixton Deverel<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. Kingston Deverell. Maden-Bradley.</item>
+                  <item>VII. Staverton. Wwaddon. Semmyngton. Help<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>ton. Kevyll. Trubridge. Steepleaston. Maston. Eddington. Steke. Coulston. B<gap reason="illegible" extent="2+ letters">
+                        <desc>••…</desc>
+                     </gap>tton. Baynton. Bradford. Westwood Winfeild. N. Bradley. Westburye. <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ford.</item>
+                  <item>VIII. Browton. Colham. Lekham. Haelbury. Laock. Atford. Broughton. Holt Chilfied. winsley. Munkton Ferley. Wax<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ll. D<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>chridge.</item>
+                  <item>IX. Alderton. Hulavington. Littletendru<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>rittleton. Stanton-qiunton. Sutton Netteston. West-Kineton. Michaels Cynt<gap reason="illegible" extent="3 letters">
+                        <desc>•••</desc>
+                     </gap>. Wraxall. Longley. Biteston Slaug<g ref="char:EOLhyphen"/>tenford.</item>
+                  <item>X. Br<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>lcham. Estengray. Malmesbury. Foxley. Norton. Sharston Luckington. Rod born. Somerford mag.</item>
+                  <item>XI. Kemble. Ashby. Crudewell. Longnewton Brekenton Whitchurch. Somerford. Oke<g ref="char:EOLhyphen"/>
+                     <gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ey. Hankerton Myntye. Charleton. Grasden. Thele<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>. Crenkworthe.</item>
+                  <pb facs="tcp:113887:5"/>
+                  <item> XII. Lediarderagese. North-Lidiard. Purton. Crekelade. Ashconean<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>. Haviston La<gap reason="illegible" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap>.</item>
+                  <item>XIII. Inglesham. Castle. Eaton. Swindon, Stratton. Redborn. Marsham. Sonningham. Hamington. Sranton. Broad Blunsdon. Bury Blunsdon. St. Andrews Blunsdon. Hiworth.</item>
+                  <item>XIV. Linton. Bishopston. Wanbrow. Liddenton. Chisleton. Baydon. Auburn. Wood. and. Maldenhall. Axford. Heldrop. Mieden hall. Chilton.</item>
+                  <item>XV. Fitcomb. Wexcomb. Marton. East-Gratton Malton. Easton. Welton. Wetton. Barbich. Buttermere. Ham. Bedwing-mag. Bedwin. Par. Harding, Wulfall. Ma<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>lingsboro, Charnamstreet. Litfle eote. Froxfield. Rramsbury.</item>
+                  <item>XVI. Manninoford Ab. Manningford Coll<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ngburne Kingstone. Fastbury. Chute, Col<g ref="char:EOLhyphen"/>ingborn St. Andrewes, Fighelden. Holstone. Haxton. South Tudworth. Fittleton. East Everley, West Everly.</item>
+                  <item>XVII. Myston. Buckmaster. Bulford, Ruchefren. Ambersbury. Aliar Amesbury, Wilford. Allington, Bascombe, Dernford mag. Gumleton. Dernford par. Stetford.</item>
+                  <item>XVIII. Imber. Tylshed. Orcheston, George. Orcheston Maryes. Shrawton Virga. Madden<g ref="char:EOLhyphen"/>ton. Chilterns. Winterburn stoke. Hatesbury. Kunker Upton Codfords. Fisherton Dalamer. Badhampton. St. Iames Berwick. Stapleford. Steeple-Langford.</item>
+                  <item>XIX. Clicton. Merden. Wilford. Charleton. Rustisall. Vp Haven. Woddenton. Vrcint. Esto<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>t. Cheselbury. Compton. Enford Cheverall Mag. Cheverall Park. East La<g ref="char:EOLhyphen"/>vington. West Lavington. Nethec-Haven.</item>
+                  <item>XX. Chippingham. Stanley. Pynnels. Whetham. Heddington, Mylsham. Linceton. Sene. Buckington. Worton. Paterne. Paulsall. Rowdon. Brumham.</item>
+                  <item>XXI. Buckland. Checill. Claston. Hewish. Alton. Stanton. Dracot. Pewsey. Wilcot. Newinton. Woodbero. Bitchamstok. Patney. Alcamyngs. Bishop. Ganyngs. The D<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>vizes. Stert. Ashlington.</item>
+                  <item>XXII. Cl<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>ford. Preshot. Manton. Overton. Kennet. Backhinton. Abury. Munckton Fyfield. Barwick. Winterborn. St. Andrewes Ogburn Ro<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>eley.</item>
+                  <item>XXIII. Gra<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>enham. Dantsey, Fickenham. Lyncham. Clack. Christ-Malford. Bremble. West Tetterton Bupton. Helmarton. Hyway. Calne. Campton Bassed. Yarc<gap reason="illegible" extent="2 letters">
+                        <desc>••</desc>
+                     </gap>
+                     <g ref="char:EOLhyphen"/>ri.</item>
+                  <item>XXIIII. Wetton Basset. Chaddenton. Elcombe. Cleve. By<gap reason="illegible" extent="4 letters">
+                        <desc>••••</desc>
+                     </gap>. Saltrop. Vscote. Broad H<gap reason="illegible" extent="1 letter">
+                        <desc>•</desc>
+                     </gap>nton, Overton.</item>
+               </list>
+            </div>
+         </div>
+         <trailer>FINIS.</trailer>
+      </body>
+   </text>
+</TEI>
